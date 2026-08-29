@@ -69,4 +69,11 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=60&section=footer)
 
+### Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=L1pesenne&theme=github-compact&bg_color=0D0D0D&color=C0C0C0&line=888888&point=FFFFFF&hide_border=true&cache=false" width="100%"/>
+
+</div>
 </div>
