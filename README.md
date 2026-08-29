@@ -10,9 +10,9 @@
 
 <br>
 
-**Class** &nbsp;&nbsp;→&nbsp;&nbsp; Backend / Full-Stack Developer
-<br>
-**Origin** &nbsp;&nbsp;→&nbsp;&nbsp; Brazil 🇧🇷
+<div align="center">
+<img src="./image_7.png" width="400"/>
+</div>
 
 ---
 
