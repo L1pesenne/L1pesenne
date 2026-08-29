@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer
 
-<img src="./Hood.gif" width="260"/>
+<img src="./Hood.gif" width="500"/>
 
 </div>
 
