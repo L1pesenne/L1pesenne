@@ -4,15 +4,20 @@
 
 ### Full-Stack Developer
 
-<img src="./Hood.gif" width="500"/>
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./Hood.gif" width="220"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./image_7.png" width="380"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
-
-<div align="center">
-<img src="./image_7.png" width="400"/>
-</div>
 
 ---
 
