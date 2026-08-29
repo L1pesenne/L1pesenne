@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer
 
-<img src="https://raw.githubusercontent.com/L1pesenne/L1pesenne/Hood.gif" width="260"/>
+<img src="./Hood.gif" width="260"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=L1pesenne&label=PROFILE+VIEWS&color=555555&style=flat-square)
 
@@ -43,7 +43,7 @@
 <img src="https://streak-stats.demolab.com/?user=L1pesenne&theme=default&hide_title=false&background=0D0D0D&border=888888&stroke=888888&ring=AAAAAA&fire=AAAAAA&currStreakLabel=AAAAAA&sideNums=AAAAAA&sideLabels=888888&dates=666666&currStreakNum=AAAAAA&card_width=440" width="100%"/>
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/L1pesenne/L1pesenne/Swag.jpg" width="100%"/>
+<img src="./Swag.jpg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/L1pesenne/L1pesenne/Hands.gif" width="70%"/>
+<img src="./Hands.gif" width="70%"/>
 </div>
 
 <div align="center">
