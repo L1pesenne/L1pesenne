@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer
 
-<img src="https://raw.githubusercontent.com/L1pesenne/L1pesenne/main/assets/Hood.jpg" width="260"/>
+<img src="https://raw.githubusercontent.com/L1pesenne/L1pesenne/main/assets/Hood.gif" width="260"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=L1pesenne&label=PROFILE+VIEWS&color=555555&style=flat-square)
 
