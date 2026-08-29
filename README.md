@@ -6,8 +6,6 @@
 
 <img src="./Hood.gif" width="260"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=L1pesenne&label=PROFILE+VIEWS&color=555555&style=flat-square)
-
 </div>
 
 <br>
