@@ -31,8 +31,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=C0C0C0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=C0C0C0)
 ![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=C0C0C0)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=C0C0C0)
-![VSCode](https://img.shields.io/badge/VSCode-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=C0C0C0)
+
+
 
 </div>
 
