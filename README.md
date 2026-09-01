@@ -7,10 +7,10 @@
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="./Hood.gif" width="500"/>
+     <img src="./image_7.png" width="500"/>
     </td>
     <td align="center" valign="middle">
-      <img src="./image_7.png" width="500"/>
+       <img src="./Hood.gif" width="500"/>
     </td>
   </tr>
 </table>
