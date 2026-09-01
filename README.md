@@ -6,7 +6,7 @@
 
 <table border="0">
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" >
      <img src="./image_7.png" width="500"/>
     </td>
     <td align="center" valign="middle">
